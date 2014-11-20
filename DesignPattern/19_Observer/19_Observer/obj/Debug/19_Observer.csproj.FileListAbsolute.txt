@@ -1,0 +1,5 @@
+E:\_1 BpDuan\GitHubFile\VS2008\DesignPattern\19_Observer\19_Observer\bin\Debug\19_Observer.exe
+E:\_1 BpDuan\GitHubFile\VS2008\DesignPattern\19_Observer\19_Observer\bin\Debug\19_Observer.pdb
+E:\_1 BpDuan\GitHubFile\VS2008\DesignPattern\19_Observer\19_Observer\obj\Debug\ResolveAssemblyReference.cache
+E:\_1 BpDuan\GitHubFile\VS2008\DesignPattern\19_Observer\19_Observer\obj\Debug\19_Observer.exe
+E:\_1 BpDuan\GitHubFile\VS2008\DesignPattern\19_Observer\19_Observer\obj\Debug\19_Observer.pdb
