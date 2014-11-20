@@ -1,0 +1,5 @@
+F:\GitHubFiles\VS2008\MyThread\MyThread\bin\Debug\MyThread.exe
+F:\GitHubFiles\VS2008\MyThread\MyThread\bin\Debug\MyThread.pdb
+F:\GitHubFiles\VS2008\MyThread\MyThread\obj\Debug\ResolveAssemblyReference.cache
+F:\GitHubFiles\VS2008\MyThread\MyThread\obj\Debug\MyThread.exe
+F:\GitHubFiles\VS2008\MyThread\MyThread\obj\Debug\MyThread.pdb

@@ -9,6 +9,9 @@ namespace MyThread
     {
         static void Main(string[] args)
         {
+            Children c = new Children();
+            c.Start();
+            Console.ReadLine();
         }
     }
 }
