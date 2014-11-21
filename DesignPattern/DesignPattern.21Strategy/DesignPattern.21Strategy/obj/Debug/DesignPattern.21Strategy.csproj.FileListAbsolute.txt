@@ -1,0 +1,5 @@
+E:\_1 BpDuan\GitHubFile\VS2008\DesignPattern\DesignPattern.21Strategy\DesignPattern.21Strategy\bin\Debug\DesignPattern.21Strategy.exe
+E:\_1 BpDuan\GitHubFile\VS2008\DesignPattern\DesignPattern.21Strategy\DesignPattern.21Strategy\bin\Debug\DesignPattern.21Strategy.pdb
+E:\_1 BpDuan\GitHubFile\VS2008\DesignPattern\DesignPattern.21Strategy\DesignPattern.21Strategy\obj\Debug\ResolveAssemblyReference.cache
+E:\_1 BpDuan\GitHubFile\VS2008\DesignPattern\DesignPattern.21Strategy\DesignPattern.21Strategy\obj\Debug\DesignPattern.21Strategy.exe
+E:\_1 BpDuan\GitHubFile\VS2008\DesignPattern\DesignPattern.21Strategy\DesignPattern.21Strategy\obj\Debug\DesignPattern.21Strategy.pdb

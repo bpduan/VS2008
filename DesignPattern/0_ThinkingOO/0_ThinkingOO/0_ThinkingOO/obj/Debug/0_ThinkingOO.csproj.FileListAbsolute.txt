@@ -1,0 +1,5 @@
+E:\_1 BpDuan\GitHubFile\VS2008\DesignPattern\0_ThinkingOO\0_ThinkingOO\0_ThinkingOO\obj\Debug\ResolveAssemblyReference.cache
+E:\_1 BpDuan\GitHubFile\VS2008\DesignPattern\0_ThinkingOO\0_ThinkingOO\0_ThinkingOO\bin\Debug\0_ThinkingOO.exe
+E:\_1 BpDuan\GitHubFile\VS2008\DesignPattern\0_ThinkingOO\0_ThinkingOO\0_ThinkingOO\bin\Debug\0_ThinkingOO.pdb
+E:\_1 BpDuan\GitHubFile\VS2008\DesignPattern\0_ThinkingOO\0_ThinkingOO\0_ThinkingOO\obj\Debug\0_ThinkingOO.exe
+E:\_1 BpDuan\GitHubFile\VS2008\DesignPattern\0_ThinkingOO\0_ThinkingOO\0_ThinkingOO\obj\Debug\0_ThinkingOO.pdb
