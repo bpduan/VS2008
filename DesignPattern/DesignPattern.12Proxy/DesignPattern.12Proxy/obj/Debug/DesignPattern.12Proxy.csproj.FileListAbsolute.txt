@@ -1,0 +1,5 @@
+E:\_1 BpDuan\GitHubFile\VS2008\DesignPattern\DesignPattern.12Proxy\DesignPattern.12Proxy\bin\Debug\DesignPattern.12Proxy.exe
+E:\_1 BpDuan\GitHubFile\VS2008\DesignPattern\DesignPattern.12Proxy\DesignPattern.12Proxy\bin\Debug\DesignPattern.12Proxy.pdb
+E:\_1 BpDuan\GitHubFile\VS2008\DesignPattern\DesignPattern.12Proxy\DesignPattern.12Proxy\obj\Debug\ResolveAssemblyReference.cache
+E:\_1 BpDuan\GitHubFile\VS2008\DesignPattern\DesignPattern.12Proxy\DesignPattern.12Proxy\obj\Debug\DesignPattern.12Proxy.exe
+E:\_1 BpDuan\GitHubFile\VS2008\DesignPattern\DesignPattern.12Proxy\DesignPattern.12Proxy\obj\Debug\DesignPattern.12Proxy.pdb
